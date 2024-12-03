@@ -1,0 +1,45 @@
+#backed{
+    background-color: blue;
+}
+.fa-regular{
+    font-size: 20px;
+}
+#sized{
+    width: 100px;
+    border-radius: 100px;
+}
+#sizeds{
+    width: 300px;
+    border-radius: 300px;
+}
+#bord{
+    border-radius: 20px;
+    width: 150px;
+}
+#map{
+    width: 600px;
+}
+#hei{
+    height: 40px;
+}
+#iconed{
+    color: aqua;
+    
+}
+#new{
+    font-size: 50px;
+    color: blue;
+}
+#imaged{
+    background-image: url("../image/first1.jpg");
+    border-radius: 20px 40px 200px 200px;
+    
+}
+#wepro{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#b1{
+    background-image: url("../image/blue.avif");
+    width: 100%;
+}
